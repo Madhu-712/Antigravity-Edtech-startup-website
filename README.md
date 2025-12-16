@@ -10,30 +10,30 @@
 ## 🤖 Prompt Used
 To generate this project, we used the following prompt with Google Antigravity:
 To generate this project, we used the following high-level prompt with Google Antigravity:
-> "I want to build an interactive EdTech platform called 'Edu-genius-Tech Tutors'. It should connect students with expert tutors in fields like AI, ML, and Data Science. The platform needs:
-> *   A premium, modern, and high-fidelity design.
-> *   Search functionality to filter tutors by price, rating, and expertise.
-> *   Interactive dashboards for both students (learning progress) and tutors (schedule/earnings).
-> *   A booking system where students can select dates/times.
-> *   Educational resources like Mock Interviews and Project ideas.
-> *   An AI chatbot for instant support.
-> *   Tech stack: Next.js 14, TypeScript, Tailwind CSS."
-> **"I want to build an interactive EdTech platform called 'Edu-genius-Tech Tutors'. It should connect students with expert tutors in fields like AI, ML, and Data Science."**
->
+ "I want to build an interactive EdTech platform called 'Edu-genius-Tech Tutors'. It should connect students with expert tutors in fields like AI, ML, and Data Science. The platform needs:
+ *   A premium, modern, and high-fidelity design.
+ *   Search functionality to filter tutors by price, rating, and expertise.
+ *   Interactive dashboards for both students (learning progress) and tutors (schedule/earnings).
+ *   A booking system where students can select dates/times.
+ *   Educational resources like Mock Interviews and Project ideas.
+ *   An AI chatbot for instant support.
+ *   Tech stack: Next.js 14, TypeScript, Tailwind CSS."
+ **"I want to build an interactive EdTech platform called 'Edu-genius-Tech Tutors'. It should connect students with expert tutors in fields like AI, ML, and Data Science."**
+
 ---
-> **Key Requirements:**
-> *   **Design:** Premium, modern, high-fidelity UI with a professional color palette.
-> *   **Core Features:**
->     *   **Search Engine:** Filter tutors by Price, Rating, Subject, and Experience.
->     *   **Booking System:** Interactive calendar for students to book sessions.
->     *   **Dashboards:**
->         *   *Student:* Track learning progress, upcoming classes, and goals.
->         *   *Tutor:* Manage schedule, view earnings, and accept requests.
->     *   **Resources:** Mock Interviews, Project Library, and Question Papers.
->     *   **AI Chatbot:** A 24/7 assistant to answer platform queries.
-> *   **Tech Stack:** Next.js 14, TypeScript, Tailwind CSS, Lucide React.
->
-> **Goal:** Create a functional technical prototype (MVP) that demonstrates the complete user journey from finding a tutor to booking a session.
+ **Key Requirements:**
+ *   **Design:** Premium, modern, high-fidelity UI with a professional color palette.
+ *   **Core Features:**
+     *   **Search Engine:** Filter tutors by Price, Rating, Subject, and Experience.
+     *   **Booking System:** Interactive calendar for students to book sessions.
+     *   **Dashboards:**
+         *   *Student:* Track learning progress, upcoming classes, and goals.
+         *   *Tutor:* Manage schedule, view earnings, and accept requests.
+     *   **Resources:** Mock Interviews, Project Library, and Question Papers.
+     *   **AI Chatbot:** A 24/7 assistant to answer platform queries.
+ *   **Tech Stack:** Next.js 14, TypeScript, Tailwind CSS, Lucide React.
+
+ **Goal:** Create a functional technical prototype (MVP) that demonstrates the complete user journey from finding a tutor to booking a session.
 
 ## 📖 About The Project
 
